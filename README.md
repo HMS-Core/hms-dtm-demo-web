@@ -1,6 +1,5 @@
 ## dtm-sample
 
-
 ## Table of Contents
 
  * [Introduction](#introduction)
@@ -8,9 +7,8 @@
  * [Configuration ](#configuration )
  * [Supported Environments](#supported-environments)
  * [Support](#support)
- * [Sample Code](# Sample Code)
+ * [Sample Code](#Sample Code)
  * [License](#license)
-
 
 ## Introduction
 For the document introducing DTM, visit https://developer.huawei.com/consumer/en/doc/dtm-guide.
