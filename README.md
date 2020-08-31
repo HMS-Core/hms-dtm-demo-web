@@ -25,7 +25,7 @@ Google Chrome
 ## Support
 For more documents about DTM, visit https://developer.huawei.com/consumer/en/doc/69402313.
 
-## Sample code
+## Sample Code
 Follow instructions in the codelab to configure  on the DTM page in AppGallery Connect and Copy this code into the section of the page.
 The demo reported a click event.
 
