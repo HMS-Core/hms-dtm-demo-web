@@ -1,4 +1,4 @@
-## dtm-sample
+# HMS DTM(Dynamic Tag Manger) Sample for Web
 
 ## Table of Contents
 
@@ -39,4 +39,4 @@ Google Chrome
 At last, You can view the reported event on the third-party platform.
 
 ## License
-dtm sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+DTM sample for web is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
