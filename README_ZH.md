@@ -1,6 +1,6 @@
 ## 华为动态标签管理器服务Web示例代码
 
-[![hms](https://img.shields.io/badge/hms-analytics-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
 
 [English](https://github.com/HMS-Core/hms-dtm-demo-web/blob/master/README.md) | 中文
 
