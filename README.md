@@ -25,7 +25,7 @@ Before you start developing an app, configure your app information in AppGallery
 Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/20300).
 
 2. Create an app.
-Create an app by following instructions in [Creating an AppGallery Connect Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605371607) and [Adding an Web App to the Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605413814)
+Create an app by following instructions in [Creating an AppGallery Connect Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605371607) and [Adding an Web App to the Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605413814).
 
 ## Installation
 Use a text editor, such as Notepad、WebStorm to open the demo project.
